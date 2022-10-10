@@ -34,9 +34,9 @@
     });
 </script>
 
-<h1 class="font-bold flex justify-center mb-2 mt-4 text-7xl">
+<a href="/" class="font-bold flex justify-center mb-2 mt-8 text-7xl hover:underline">
     Simpson Research
-</h1>
+</a>
 
 <div class="flex justify-center items-center">
     <div>
