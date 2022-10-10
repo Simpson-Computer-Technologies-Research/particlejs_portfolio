@@ -15,10 +15,7 @@ const config = {
 			fallback: null,
 			precompress: false
 		}),
-        trailingSlash: "always",
-        paths: {
-            base: "/simpsonresearch.ca"
-        }
+        trailingSlash: "always"
     }
 };
 
