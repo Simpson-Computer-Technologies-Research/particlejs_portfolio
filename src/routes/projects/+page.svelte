@@ -34,10 +34,12 @@
     });
 </script>
 
+<!-- Header -->
 <a href="/" class="font-bold flex justify-center mb-2 mt-8 mx-2 text-4xl md:text-7xl hover:underline">
     Simpson Research
 </a>
 
+<!-- Main Github Repositories -->
 <div class="flex justify-center items-center">
     <div>
         <h2 class="text-2xl font-bold flex justify-center mt-8">
@@ -49,7 +51,7 @@
     </div>
 </div>
 
-
+<!-- Advanced Programming Club Repositories -->
 <div class="flex justify-center items-center">
     <div>
         <h2 class="text-2xl font-bold flex justify-center mt-6">
@@ -61,7 +63,7 @@
     </div>
 </div>
 
-<div class="flex justify-center items-center mt-16 mb-4">
-    <p class="text-base text-slate-600">Simpson Computer Technologies Research by&nbsp;</p>
-    <p class="text-base text-slate-900">Tristan Daniel Simpson</p>
+<!-- Bottom Footer -->
+<div class="flex justify-center items-center mt-14 mb-6 mx-2 text-xs md:text-base ease-in-out">
+    <p class="text-slate-600">Simpson Computer Technologies Research by <mark class="text-slate-900" style="background: none;">Tristan Simpson</mark></p>
 </div>
