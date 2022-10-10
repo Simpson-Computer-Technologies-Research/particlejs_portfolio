@@ -6,7 +6,7 @@
 </script>
 
 <a href={redirect} target="_blank">
-    <div class="bg-white px-3 py-3 mt-6 mb-6 rounded-xl h-28 w-[500px] md:w-[700px] lg:w-[1000px] duration-500 ease-in-out h-24 shadow-lg hover:tracking-wide pr-12 focus:bg-black hover:bg-slate-50">
+    <div class="bg-white px-3 py-3 mt-6 mb-6 rounded-xl h-26 w-[300px] sm:w-[500px] md:w-[700px] lg:w-[1000px] duration-500 ease-in-out shadow-lg hover:tracking-wide pr-12 focus:bg-black hover:bg-slate-50">
         <div class="flex items-center">
         
             <!-- User Profile Image -->
