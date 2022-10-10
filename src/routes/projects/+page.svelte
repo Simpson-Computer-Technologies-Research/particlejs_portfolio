@@ -62,6 +62,5 @@
 </div>
 
 <div class="flex justify-center items-center mt-16 mb-4">
-    <p class="text-base text-slate-600">Simpson Computer Technologies Research by&nbsp;</p>
-    <p class="text-base text-slate-900">Tristan Daniel Simpson</p>
+    <p class="text-base text-slate-600">Simpson Computer Technologies Research</p>
 </div>
