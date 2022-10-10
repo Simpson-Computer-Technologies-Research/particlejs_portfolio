@@ -56,7 +56,7 @@
             Advanced Programming Club
         </h2>
         {#each APCRepos as data}
-            <RepoCard title={data.name} description={data.description} image={data.icon_url}/>
+            <RepoCard title={data.name} description={data.description} image={data.icon_url} redirect={data.redirect}/>
         {/each}
     </div>
 </div>
