@@ -34,7 +34,7 @@
     });
 </script>
 
-<a href="/" class="font-bold flex justify-center mb-2 mt-8 text-7xl hover:underline">
+<a href="/" class="font-bold flex justify-center mb-2 mt-8 text-5xl md:text-7xl hover:underline">
     Simpson Research
 </a>
 
