@@ -63,7 +63,7 @@
     </div>
 </div>
 
-<!-- Bottom Footer -->
-<div class="flex justify-center items-center mt-14 mb-6 mx-2 text-xs md:text-base ease-in-out">
-    <p class="text-slate-600">Simpson Computer Technologies Research by <mark class="text-slate-900" style="background: none;">Tristan Simpson</mark></p>
+<!-- Bottom Footer-->
+<div class="flex justify-center items-center mt-16 mb-4">
+    <p class="text-base text-slate-600">Simpson Computer Technologies Research</p>
 </div>

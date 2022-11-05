@@ -15,7 +15,7 @@
 
 <!-- Description -->
 <div class="flex justify-center items-center mb-6 mx-2 text-xs md:text-base ease-in-out">
-    <p class="text-slate-300">Simpson Computer Technologies Research by <mark class="text-violet-500" style="background: none;">Tristan Simpson</mark></p>
+    <p class="text-slate-300">Computer Technologies Research by <mark class="text-violet-500" style="background: none;">Tristan Simpson</mark></p>
 </div>
 
 <!-- See Projects Button -->
