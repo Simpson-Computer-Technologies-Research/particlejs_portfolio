@@ -2,7 +2,7 @@ import { publish } from 'gh-pages';
 
 publish('build', {
         branch: 'gh-pages',
-        repo: 'https://github.com/Simpson-Computer-Technologies-Research/simpsonresearch.ca.git',
+        repo: 'https://github.com/Simpson-Computer-Technologies-Research/particlejs_portfolio.git',
         dotfiles: true,
         user: {
             name: 'Tristan Simpson',

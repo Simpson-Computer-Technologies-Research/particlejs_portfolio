@@ -35,7 +35,7 @@
 </script>
 
 <!-- Header -->
-<a href="/OLD_simpsonresearch.ca/" class="font-bold flex justify-center mb-2 mt-8 mx-2 text-4xl md:text-7xl hover:underline">
+<a href="/particlejs_portfolio" class="font-bold flex justify-center mb-2 mt-8 mx-2 text-4xl md:text-7xl hover:underline">
     Simpson Research
 </a>
 

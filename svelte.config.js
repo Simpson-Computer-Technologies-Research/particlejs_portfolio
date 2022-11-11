@@ -16,8 +16,8 @@ const config = {
 			precompress: false
 		}),
         paths: {
-		base: "/particlejs_portfolio"
-	}
+			base: "/particlejs_portfolio"
+		}
     }
 };
 

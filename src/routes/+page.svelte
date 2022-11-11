@@ -21,7 +21,7 @@
 <!-- See Projects Button -->
 <div class="justify-center items-center flex mx-2">
     <button 
-        on:click={() => window.location.href="/OLD_simpsonresearch.ca/projects"}
+        on:click={() => window.location.href="/particlejs_portfolio/projects"}
         class="bg-white text-center font-semibold rounded h-10 w-44 hover:bg-violet-700 hover:text-white focus:bg-violet-500 hover:tracking-wide duration-500 ease-in-out">
         See Projects
     </button>
