@@ -15,7 +15,9 @@ const config = {
 			fallback: null,
 			precompress: false
 		}),
-        trailingSlash: "always"
+        paths: {
+		base: "/particlejs_portfolio"
+	}
     }
 };
 
